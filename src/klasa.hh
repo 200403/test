@@ -9,7 +9,11 @@
 #define KLASA_HH_
 
 
-
+class klasa{
+private:
+	int i;
+	int j;
+};
 
 
 #endif /* KLASA_HH_ */
